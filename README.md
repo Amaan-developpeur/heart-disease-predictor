@@ -19,5 +19,13 @@ This repository implements a predictive model for heart disease based on patient
    ```bash
    git clone https://github.com/Amaan-developpeur/heart-disease-predictor.git
    cd heart-disease-predictor
+
+
+## Dataset
+
+The file `heart.csv` contains the dataset used for training and testing. It is included in this repository (or specify if users need to download it).
+
+Ensure `heart.csv` is in the project root directory before running the notebook or script.
+
 # Install the dependencies
 pip install -r requirements.txt
