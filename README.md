@@ -23,7 +23,7 @@ This repository implements a predictive model for heart disease based on patient
 
 ## Dataset
 
-The file `heart.csv` contains the dataset used for training and testing. It is included in this repository (or specify if users need to download it).
+The file `heart.csv` contains the dataset used for training and testing. It is included in this repository.
 
 Ensure `heart.csv` is in the project root directory before running the notebook or script.
 
